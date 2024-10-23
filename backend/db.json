@@ -1,0 +1,53 @@
+{
+  "filmes": [
+    {
+      "id": "1003",
+      "favorito": false,
+      "nome": "Matrix",
+      "genero": "Ficção Científica",
+      "data": "2024-10-15T21:13:08.689Z"
+    },
+    {
+      "id": "1005",
+      "favorito": false,
+      "nome": "Alien: Romulus",
+      "genero": "Ficção Científica",
+      "data": "2024-10-16T21:13:08.689Z"
+    },
+    {
+      "id": "1006",
+      "favorito": false,
+      "nome": "Gladiador",
+      "genero": "Épico",
+      "data": "2024-10-17T21:13:08.689Z"
+    },
+    {
+      "id": "1007",
+      "favorito": false,
+      "nome": "A Origem",
+      "genero": "Ficção Científica",
+      "data": "2024-10-18T21:13:08.689Z"
+    },
+    {
+      "id": "1008",
+      "favorito": false,
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+      "genero": "Fantasia",
+      "data": "2024-10-19T21:13:08.689Z"
+    },
+    {
+      "id": "1009",
+      "favorito": false,
+      "nome": "Pulp Fiction: Tempo de Violência",
+      "genero": "Crime",
+      "data": "2024-10-20T21:13:08.689Z"
+    },
+    {
+      "id": "1010",
+      "favorito": false,
+      "nome": "Vingadores: Ultimato",
+      "genero": "Ação",
+      "data": "2024-10-21T21:13:08.689Z"
+    }
+  ]
+}
